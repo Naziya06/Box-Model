@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+    border-color: black;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: double;
+    justify-content: center;
+    display: flex;
+}
+*{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
